@@ -1,0 +1,8 @@
+ clientes = ["Juan", "Mario", "Ariel", "Josefina", "  Marianella"]
+ clientes.sort ()
+ print(clientes)
+lista=clientes("ariel",  "josefina","juan","marianella","mario")
+sorted
+print(clientes)
+
+()
